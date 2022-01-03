@@ -11,12 +11,12 @@
 	printf '//]]>\n'
 	printf '</style>\n'
 
-	for FILE in $(find landmasses -type f -name '*.svg')
+	for FILE in $(find landmasses -type f -name '*.svg' | sort)
 	do
 		tail -n +8 "$FILE"
 	done
 
-	for FILE in $(find regions -type f -name '*.svg')
+	for FILE in $(find regions -type f -name '*.svg' | sort)
 	do
 		tail -n +8 "$FILE"
 	done
