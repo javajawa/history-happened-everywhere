@@ -6,7 +6,9 @@
 	cat template/header.svg
 
 	printf '<style text="text/css">\n'
+	printf '//<![CDATA[\n'
 	cat template/style.css
+	printf '//]]>\n'
 	printf '</style>\n'
 
 	for FILE in $(find landmasses -type f -name '*.svg')
