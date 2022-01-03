@@ -9,6 +9,10 @@ Inspired by [History Happened Everywhere](https://twitter.com/hhepodcast)
 podcast, this is an automated tool for generating an area of historical
 research by combining a location, time period, and a topic.
 
+## See The Map
+
+[Click Here](map.svg)
+
 ## Location
 
 The map is based off the [blank Robinson map from Wikimedia](https://commons.wikimedia.org/wiki/File:WorldMap.svg),
