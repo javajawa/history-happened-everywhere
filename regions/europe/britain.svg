@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+vim: expandtab ts=2 nospell
+
+SPDX-FileCopyrightText: Public Domain
+SPDX-License-Identifier: CC0-1.0
+-->
+<path class="region" title="Southern England" d="m1112 212l22-5l10 8l-10 10l-30 5z" />
+<path class="region" title="Thames Estuary" d="m1120 219l15-1l2 2l-16 0.5z" />
+<path class="region" title="English Midlands" d="m1111 212l22 -5l-4 -9l-18 5z" />
+<path class="region" title="Jorvik" d="m11" />
+<circle cx="1106" cy="213" r="9" class="region" title="Wales" />
+<circle cx="1102" cy="228" r="8" class="region" title="Cornwall" />

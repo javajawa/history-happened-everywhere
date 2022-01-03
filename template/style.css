@@ -1,0 +1,22 @@
+# vim: expandtab ts=2
+# SPDX-FileCopyrightText: 2021 Benedict Harcourt <ben.harcourt@harcourtprogramming.co.uk>
+# SPDX-License-Identifier: CC0-1.0
+
+path.ocean {
+  fill: #05B;
+}
+
+.region {
+  stroke: none;
+  transition: fill 0.2s;
+  fill: hsla(240deg, 100%, 80%, 0.4);
+}
+
+.land {
+  fill: #ccc;
+}
+
+.active {
+  fill: hsla(120deg, 100%, 80%, 0.8);
+  z-index: 999;
+}

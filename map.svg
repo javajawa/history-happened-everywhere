@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+vim: expandtab ts=2 nospell
+
+SPDX-FileCopyrightText: Public Domain
+SPDX-License-Identifier: CC0-1.0
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2370 1200">
+  <style type="text/css">
+  </style>
+  <text id="title" x="10" y="30" style="font-size: 24pt;">Selecting...</text>
+  <text id="time"  x="10" y="65" style="font-size: 24pt;">Selecting...</text>
+  <text id="topic" x="10" y="100" style="font-size: 24pt;">Selecting...</text>
+
+  <path id="rim" class="ocean" d="m554.55 1199.9c-749.33-228.38-729.69-979.71 0.88-1199.9l1258.4 0.043404c760.9 234.89 721.9 985.1 0.4 1200l-1259.6-0.1719z"/>
+
+
+  <path class="region" title="Southern England" d="m1112 212l22-5l10 8l-10 10l-30 5z" />
+  <path class="region" title="Thames Estuary" d="m1120 219l15-1l2 2l-16 0.5z" />
+  <path class="region" title="English Midlands" d="m1111 212l22 -5l-4 -9l-18 5z" />
+  <path class="region" title="Jorvik" d="m11" />
+  <circle cx="1106" cy="213" r="9" class="region" title="Wales" />
+  <circle cx="1102" cy="228" r="8" class="region" title="Cornwall" />
+
+  <script type="text/javascript">
+    //<![CDATA[
+    //]]>
+  </script>
+</svg>

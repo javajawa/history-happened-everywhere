@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+vim: expandtab ts=2 nospell
+
+SPDX-FileCopyrightText: Public Domain
+SPDX-License-Identifier: CC0-1.0
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2370 1200">
+  <text id="title" x="10" y="30" style="font-size: 24pt;">Selecting...</text>
+  <text id="time"  x="10" y="65" style="font-size: 24pt;">Selecting...</text>
+  <text id="topic" x="10" y="100" style="font-size: 24pt;">Selecting...</text>
+
+  <path id="rim" class="ocean" d="m554.55 1199.9c-749.33-228.38-729.69-979.71 0.88-1199.9l1258.4 0.043404c760.9 234.89 721.9 985.1 0.4 1200l-1259.6-0.1719z"/>
