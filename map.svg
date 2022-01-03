@@ -12,9 +12,11 @@ SPDX-License-Identifier: CC0-1.0
 
   <path id="rim" class="ocean" d="m554.55 1199.9c-749.33-228.38-729.69-979.71 0.88-1199.9l1258.4 0.043404c760.9 234.89 721.9 985.1 0.4 1200l-1259.6-0.1719z"/>
 <style text="text/css">
-# vim: expandtab ts=2
-# SPDX-FileCopyrightText: 2021 Benedict Harcourt <ben.harcourt@harcourtprogramming.co.uk>
-# SPDX-License-Identifier: CC0-1.0
+/*
+vim: expandtab ts=2
+SPDX-FileCopyrightText: 2021 Benedict Harcourt <ben.harcourt@harcourtprogramming.co.uk>
+SPDX-License-Identifier: CC0-1.0
+*/
 
 path.ocean {
   fill: #05B;
