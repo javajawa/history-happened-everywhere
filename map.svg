@@ -10,18 +10,14 @@ SPDX-License-Identifier: CC0-1.0
   <text id="time"  x="10" y="65" style="font-size: 24pt;">Selecting...</text>
   <text id="topic" x="10" y="100" style="font-size: 24pt;">Selecting...</text>
 
-  <path id="rim" class="ocean" d="m554.55 1199.9c-749.33-228.38-729.69-979.71 0.88-1199.9l1258.4 0.043404c760.9 234.89 721.9 985.1 0.4 1200l-1259.6-0.1719z"/>
+  <path id="rim" fill="#0055BB" d="m554.55 1199.9c-749.33-228.38-729.69-979.71 0.88-1199.9l1258.4 0.043404c760.9 234.89 721.9 985.1 0.4 1200l-1259.6-0.1719z"/>
 <style text="text/css">
-//<![CDATA[
+/*<![CDATA[*/
 /*
 vim: expandtab ts=2
 SPDX-FileCopyrightText: 2021 Benedict Harcourt <ben.harcourt@harcourtprogramming.co.uk>
 SPDX-License-Identifier: CC0-1.0
 */
-
-path.ocean {
-  fill: #05B;
-}
 
 .region {
   stroke: none;
@@ -30,14 +26,14 @@ path.ocean {
 }
 
 .land {
-  fill: #ccc;
+  fill: #aba;
 }
 
 .active {
   fill: hsla(120deg, 100%, 80%, 0.8);
   z-index: 999;
 }
-//]]>
+/*]]>*/
 </style>
 <path id="eurasia" class="land" d="
   m1582.059 49.5313c-1.3703-0.01275-2.6558

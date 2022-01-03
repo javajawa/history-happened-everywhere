@@ -4,10 +4,6 @@ SPDX-FileCopyrightText: 2021 Benedict Harcourt <ben.harcourt@harcourtprogramming
 SPDX-License-Identifier: CC0-1.0
 */
 
-path.ocean {
-  fill: #05B;
-}
-
 .region {
   stroke: none;
   transition: fill 0.2s;
@@ -15,7 +11,7 @@ path.ocean {
 }
 
 .land {
-  fill: #ccc;
+  fill: #aba;
 }
 
 .active {
