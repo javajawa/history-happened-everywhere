@@ -93,7 +93,7 @@ const interval = setInterval(() => requestAnimationFrame(() => {
   ++i;
   ++lastLocked;
 
-  if (Math.random() < lastLocked / 50 ) {
+  if (lastLocked > 5 && Math.random() < lastLocked / 50 ) {
     ++locked;
     lastLocked = 0;
   }
